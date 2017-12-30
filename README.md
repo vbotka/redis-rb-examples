@@ -1,6 +1,6 @@
 # redis-rb-examples
 
-|build-status| |docs|
+![Build Status](https://readthedocs.org/projects/redis-rb-examples/badge/?version=latest)
 
 [Redis](https://redis.io/) is popular in-memory data structure store, used as a database, cache and message broker. [redis-rb](https://github.com/redis/redis-rb) is Ruby client library for Redis.
 
